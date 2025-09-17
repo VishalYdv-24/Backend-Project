@@ -12,3 +12,6 @@ file Setup setps
 10. make necessary folders in src folder
 11. install prettier to make code in standard format  npm i -D prettier  (go through prettier file
     for more idea)
+12. install mongoose : npm install mongoose
+13. install dotenv : npm install dotenv
+14. install express : npm install express
